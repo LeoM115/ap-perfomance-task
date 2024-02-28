@@ -145,6 +145,63 @@ namespace myImages {
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
 `;
+            case "image3":
+            case "Red Car":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 2 2 2 2 2 2 2 2 . . 
+. . . . . 2 c 2 2 2 2 2 2 4 2 . 
+. . . . 2 c c 2 2 2 2 2 2 4 c 2 
+. . d 2 4 c c 2 4 4 4 4 4 4 c c 
+. d 2 2 4 c b e e e e e e e 2 c 
+. 2 2 2 4 b e e b b b e b b e 2 
+. 2 2 2 2 2 e b b b b e b b b e 
+. 2 2 2 2 e 2 2 2 2 2 e 2 2 2 e 
+. 2 d d 2 e f e e e f e e e e e 
+. d d 2 e e e f e e f e e e e e 
+. e e e e e e e f f f e e e e e 
+. e e e e f f f e e e e f f f f 
+. . . e f f f f f e e f f f f f 
+. . . . f f f f . . . . f f f . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image4":
+            case "Red Car2":return img`
+. . . . . . . e e e e e . . . . 
+. . . . . e e 2 2 2 2 2 e . . . 
+. . . . e e 2 2 2 2 2 2 2 e . . 
+. . . . e 9 4 2 2 2 2 2 4 b e . 
+. . e e 9 9 4 4 2 2 2 2 4 9 b e 
+. e 2 2 9 9 4 4 4 2 2 2 4 9 9 e 
+e 2 2 2 9 9 2 4 4 4 4 4 2 9 9 e 
+e 2 2 2 9 9 e e e e e e e 9 9 e 
+e 2 2 2 9 b e b b b e b e b 9 e 
+e 2 e e e e b b b b e b b e b e 
+e e 3 3 e e 2 2 2 2 e 2 2 e e e 
+e 3 3 e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e f f f e e e e f f f e e 
+. e e f b c c f e e f b c c f . 
+. . . . b b f . . . . b b f . . 
+`;
+            case "image5":
+            case "Purple Car":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 3 3 3 3 3 3 3 3 . . 
+. . . . . 3 c 3 3 3 3 3 3 d 3 . 
+. . . . 3 c c 3 3 3 3 3 3 d c 3 
+. . d 3 d c c 3 d d d d d d c c 
+. d 3 3 d c b a a a a a a a 3 c 
+. 3 3 3 d b a a b b b a b b a 3 
+. 3 3 3 3 3 a b b b b a b b b a 
+. 3 3 3 3 a 3 3 3 3 3 a 3 3 3 a 
+. 3 d d 3 a f a a a f a a a a a 
+. d d 3 a a a f a a f a a a a a 
+. a a a a a a a f f f a a a a a 
+. a a a a f f f a a a a f f f f 
+. . . a f f f f f a a f f f f f 
+. . . . f f f f . . . . f f f . 
+. . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })

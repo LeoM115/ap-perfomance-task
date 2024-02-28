@@ -9,6 +9,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Background"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA0CIi7Q4AAAAtItLtDgAAACIi0uLuAAAgRCQi7v4PAMLMK+7u/w8gzLzu8u7/DyAi4r7i7/8PICLku+L+/gAgIuS74v7uACAi5Lvy/+4AICLk7u7u/gAgIuS74u7/DyBE5Lvi7v8PAMIsvuLu/w8AIMzi7u7/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Red Car"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAADu7u7uAAAA4CIiPu4OAAAuIuIz7g4AAC4i4uPuDwDumZnp7v674J6Zmevu/rzgQkTivuL+/C4iROS74u4PLiJC5Lvi7g4uIiLku+LuDi4iIuTu7u4PLiIi5Lvi/rvgQkTivuL+vAC+mZnr7v78AOCbmbnu7g8AAO7u7u7uAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Red Car2"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA0DMzrQoAAAA9M9OtCgAAADMz06OqAAAw3T0zqvoPAMPMO6qq/w8wzLyq86r/DzAzo7qjr/8PMDOtu6P6+gAwM627o/qqADAzrbvz/6oAMDOtqqqq+gAwM627o6r/DzDdrbujqv8PAMM8uqOq/w8AMMyjqqr/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Purple Car"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
